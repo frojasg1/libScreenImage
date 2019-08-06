@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.frojasg1</groupId>
 	<artifactId>libScreenImage</artifactId>
-	<version>1.1</version>
+	<version>1.1-SNAPSHOT</version>
 	<name>libScreenImage</name>
 
 	<description>Library that paints the contents of Java Components into a BufferedImage.</description>
