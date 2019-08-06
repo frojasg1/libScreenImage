@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.frojasg1</groupId>
 	<artifactId>libScreenImage</artifactId>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.1</version>
 	<name>libScreenImage</name>
 
 	<description>Library that paints the contents of Java Components into a BufferedImage.</description>
@@ -41,7 +39,7 @@
 		<connection>scm:git:git://github.com/frojasg1/libScreenImage.git</connection>
 		<developerConnection>scm:git:git@github.com:frojasg1/frojasg1.git</developerConnection>
 		<url>https://github.com/frojasg1/libScreenImage</url>
-		<tag>HEAD</tag>
+		<tag>OSSRH-50567</tag>
 	</scm>
 
 	<distributionManagement>
